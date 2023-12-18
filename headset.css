@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.shop{
+    position: absolute;
+    top: 42%;
+    right: 100px;
+    color: rgb(211, 211, 211);
+}
+.shop h5{
+    font-size: 15px;
+    color: rgb(57, 57, 57);
+}
+.content{
+    padding: 50px;
+}
+.navbar{
+    transition: 0.6s all; 
+}
+.title{
+    background-color: rgb(16, 16, 16);
+    padding: 50px;
+}
+.title h3{
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+.headset{
+    padding: 100px;
+}
+.btn{
+    min-width: 100px;
+}
+.column{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    padding: 30px;
+}
+.column1{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    padding: 30px;
+    margin-top: -30px;
+}
+.column img:hover{
+    box-shadow: 2px 3px 3px gray;
+    transition: 0.6s;
+}
+.column1 img:hover{
+    box-shadow: 2px 3px 3px gray;
+    transition: 0.6s;
+}
+.title1{
+    background-color: rgb(16, 16, 16);
+    padding: 50px;
+    width: 1440px;
+    margin-left: -100px;
+    margin-top: 50px;
+}
+.title1 h3{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    margin-left: -500px;
+}
+.title1 p{
+    color: white;
+    margin-left: 100px;
+}
+.learn{
+    margin-left: 1100px;
+    margin-top: -40px;
+}
+.footer{
+    margin-left: -100px;
+    margin-bottom: -100px;
+}
+span{
+    color: red;
+}
+.spn{
+    color: rgb(50, 50, 50);
+}
